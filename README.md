@@ -1,6 +1,6 @@
 # l
-my new study learn about c and c++
-# 第一天 XOR的学习 xor_link_
+my new learn learn about c and c++
+# 第一天 XOR的学习 xor_link
   XOR即异或运算，快速算法为不进位的加法运算，我从老师那里得知两个xor我使用技巧
   ** 第一个技巧：
   110^011=101 101^011=110 ，我们发现一个规律，如果a^b=c 那么 c^b=a 观察这两个式子，如果把a代入到第一个式子，会得到c^b^b=c，
